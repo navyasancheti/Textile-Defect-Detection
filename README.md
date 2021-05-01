@@ -13,8 +13,8 @@ Fabric defect detection is a necessary and essential step of quality control in 
 <img src = "https://github.com/navyasancheti/Textile-Defect-Detection/blob/53b735bc5e0486897e64cd49b4a82ef74a9d84a7/download%20(1).jpeg" height="210px"/>
 <img src = "https://github.com/navyasancheti/Textile-Defect-Detection/blob/53b735bc5e0486897e64cd49b4a82ef74a9d84a7/Hough.png" height="210px"/>
 </p>
-<br/>
 
+---
 
 <h4>Gabor & GrayScale Filter Masks </h4>
 <p align="left">
@@ -22,11 +22,12 @@ Fabric defect detection is a necessary and essential step of quality control in 
 <img src = "https://github.com/navyasancheti/Textile-Defect-Detection/blob/53b735bc5e0486897e64cd49b4a82ef74a9d84a7/GrayScale%20Transform.png" height="150px"/>
 <img src = "https://github.com/navyasancheti/Textile-Defect-Detection/blob/53b735bc5e0486897e64cd49b4a82ef74a9d84a7/Gabor_filter.png" height="150px"/>
 </p>
-<br/>
+
+---
 
 <h4>Defect Classification(Using CNN Layers) : Predicting Color Blending Image Correctly</h4>
 <p align="center">
-<img src = "https://github.com/navyasancheti/Textile-Defect-Detection/blob/53b735bc5e0486897e64cd49b4a82ef74a9d84a7/Color_blending.png" height="300px"/>
+<img src = "https://github.com/navyasancheti/Textile-Defect-Detection/blob/53b735bc5e0486897e64cd49b4a82ef74a9d84a7/Color_blending.png" height="400px"/>
 </p>
 
 
