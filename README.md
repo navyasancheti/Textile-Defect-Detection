@@ -44,7 +44,7 @@ The images in the data set were categorised into 'Color','Cut','No Defect','Hole
 Able to get good accuracy(about 90%) in few 50 epochs only.
 <br/>
 <p align="center">
-<img src = "https://github.com/navyasancheti/Textile-Defect-Detection/blob/53b735bc5e0486897e64cd49b4a82ef74a9d84a7/Color_blending.png" height="400px"/>
+<img src = "https://github.com/navyasancheti/Textile-Defect-Detection/blob/5894d40475097a650a885e8e1612a532c2781954/Model.png" height="400px"/>
 </p>
 <br/>
 <p align="center">
