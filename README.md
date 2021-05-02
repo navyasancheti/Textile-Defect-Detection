@@ -12,7 +12,7 @@ Technology/Framework Used : Numpy, Pandas, Matplotlib, CV2, Skimage, Scipy
 <br/>
 
 <h4>Hole Detection - circular boundary using Hough Transformation:</h4>
-The Hough transform is a feature extraction technique used in image analysis, computer vision, and digital image processing. The purpose of the technique is to find imperfect instances of objects within a certain class of shapes by a voting procedure.
+The Hough transform is a feature extraction technique used in image analysis, computer vision, and digital image processing. The purpose of the technique is to find imperfect instances of objects within a certain class of shapes by a voting procedure. By optimizing its parameters, we were able to get clear accurate bounding circle around the holes.
 <br/>
 <p align="left">
 <img src = "https://github.com/navyasancheti/Textile-Defect-Detection/blob/53b735bc5e0486897e64cd49b4a82ef74a9d84a7/download%20(1).jpeg" height="210px"/>
@@ -22,7 +22,8 @@ The Hough transform is a feature extraction technique used in image analysis, co
 ---
 
 <h4>Gabor & GrayScale Filter Masks </h4>
- In image processing, a Gabor filter, named after Dennis Gabor, is a linear filter used for texture analysis, which essentially means that it analyzes whether there is any specific frequency content in the image in specific directions in a localized region around the point or region of analysis.
+ In image processing, a Gabor filter, named after Dennis Gabor, is a linear filter used for texture analysis, which essentially means that it analyzes whether there is any specific frequency content in the image in specific directions in a localized region around the point or region of analysis. 
+ In the third image, reduced frequency/light/brightness of overall image shows a distinctive dark patch indicating a defect.
  <br/>
 <p align="left">
 <img src = "https://github.com/navyasancheti/Textile-Defect-Detection/blob/53b735bc5e0486897e64cd49b4a82ef74a9d84a7/download%20(1).jpeg" height="150px"/>
@@ -43,6 +44,7 @@ Technology/Framework Used : Numpy, Pandas, Matplotlib, Sklearn, Keras
 <h4>Using CNN Layers : Predicting Color Blending Image Correctly</h4>
 The images in the data set were categorised into 'Color','Cut','No Defect','Hole','Metal_Contamination'&'Thread'. Developed a Convolutional Neural Network Model(below figure for reference) to train the large image dataset(about 90,000 samples) in order to get high validation accuracy. 
 Able to get good accuracy(about 90%) in few 50 epochs only.
+<br/>
 <br/>
 <p align="center">
 <img src = "https://github.com/navyasancheti/Textile-Defect-Detection/blob/5894d40475097a650a885e8e1612a532c2781954/Model.png" height="400px"/>
